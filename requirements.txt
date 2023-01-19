@@ -3,3 +3,5 @@ Emoji
 Type Options
 Vibrant
 Colors
+Dark Mode
+Video Calls
