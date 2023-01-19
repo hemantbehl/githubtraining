@@ -5,3 +5,7 @@ Vibrant
 Colors
 Dark Mode
 Video Calls
+
+Maintenance
+Privacy
+Password Protection
