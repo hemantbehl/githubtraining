@@ -9,3 +9,6 @@ Video Calls
 Maintenance
 Privacy
 Password Protection
+
+Payment Option
+Debit / Credit
